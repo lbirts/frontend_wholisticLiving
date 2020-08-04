@@ -1,0 +1,160 @@
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+.title {
+    width: 100%;
+    margin-left: 20px;
+    font-size: medium;
+    color: black;
+    font-weight: 600;
+}
+
+.comm {
+    margin-left: 10px;
+}
+
+.content-container {
+    width: 900px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 40px;
+}
+
+.dash-primary-cards {
+    margin-top: 50px;
+}
+
+.iconpic {
+    width: 50px;
+    height: 50px;
+}
+
+.healthpic {
+    width: 200px;
+    height: 200px;
+}
+
+.p, p {
+    margin: 1rem 0;
+    line-height: 1.5rem;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+main.member-standard .dc-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    margin: .5rem 0;
+    text-decoration: none;
+    background-color: #fff;
+    height: 112px;
+    padding: 24px;
+    text-align: left;
+    border: 1px solid #dee3e3;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    border-radius: 4px;
+}
+
+a, a:link {
+    font-family: proximanova-regular,"Helvetiva Neue",Arial,sans-serif;
+    color: #3e81a5;
+    transition: all .3s;
+    line-height: 1.45;
+}
+
+a {
+    background-color: transparent;
+}
+
+main.member-standard .welcome {
+    text-align: center;
+    display: flex;
+    padding: 3.5rem 1rem 2.5rem 1rem;
+}
+
+main.member-standard .full-bgcol {
+    background: #c6e0eee2;
+}
+
+main.member-standard section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0;
+    width: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+section {
+    display: block;
+}
+
+.btn-cta {
+    background-color: #3e81a5;
+    width: 30%;
+    margin-left: 200px;
+}
+
+.content {
+    padding-top: 50px;
+    margin-left: -110px;
+    text-align: center;
+}
+
+@media (max-width: 910px) {
+    .content-container {
+        width: 70%;
+        display: block;
+    }
+    .healthpic, .btn-cta {
+        display: block;
+        margin: auto;
+    }
+    .content {
+        text-align: center;
+        margin-left: 0;
+        padding-top: 10px;
+    }
+    .btn-cta {
+        width: 40%
+    }
+}
+
+/* 
+@media (max-width: 300px) {
+    .content-container {
+        width: 100%;
+        display: block;
+    }
+} */
+
+
+/* html {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: auto;
+    -moz-text-size-adjust: auto;
+    -ms-text-size-adjust: auto;
+    -o-text-size-adjust: auto;
+    text-size-adjust: auto;
+    font-family: proximanova-regular,"Helvetiva Neue",Arial,sans-serif;
+    color: #263633;
+    letter-spacing: 0;
+} */

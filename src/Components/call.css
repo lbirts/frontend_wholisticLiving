@@ -1,0 +1,41 @@
+#local-video {
+    width: 200px;
+    height: 200px;
+    margin-left: 1150px;
+    margin-top: -200px;
+    z-index: 9000;
+}
+
+#remoteVideoContainer2 {
+    width: 1000px;
+    margin-left: 350px;
+    margin-top: 80px;
+    /* position: relative; */
+    /* z-index: -1; */
+}
+
+.wait {
+    background-color: grey;
+    text-align: center;
+    width: 1000px;
+    height: 650px;
+    margin-left: 350px;
+    top: 200px;
+    position: absolute;
+    z-index: -1;
+}
+
+.join {
+    background-color: #3e81a5;
+    color: white;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.leave {
+    background-color: red;
+    color: white;
+    margin-left: 900px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+}

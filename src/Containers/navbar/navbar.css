@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+
+/* Focus */
+/* *:focus {
+    outline: 5px auto #41738e;
+} */
+
+.focus-visible {
+    outline: 5px auto #41738e !important;
+}
+
+.MuiTouchRipple-root {
+    display: none !important;
+}
+
+.appNav {
+    background-color: white;
+    box-shadow: 0 0 1px 0 rgba(148, 71, 71, 0.1);
+    color: #172321;
+    width: 100vw;
+    top: 0;
+    z-index: 1;
+}
+
+.appNav .menu-content {
+    height: 72px;
+    justify-content: space-between;
+    padding: 0 2rem;
+    background-color: white;
+}
+
+.appNav .menu-logo img {
+    width: 180px;
+    height: 70px;
+}
+
+.appNav .menu-links {
+    height: 100%;
+}
+
+.appNav .menu-links a, .appNav .menu-links .menu {
+    display: inline-block;
+	height: 100%;
+	margin: 0 0.75rem;
+	text-decoration: none;
+    line-height: 56px;
+}
+
+.menu {
+    width: 100px;
+}
+
+.menu button{
+    width: 100px;
+}
+
+
+.appNav .menu-links a, .appNav .menu-links button {
+    color: #172321;
+    letter-spacing: 0.031rem;
+    padding: 0;
+    font-size: 0.875rem;
+    height: 100%;
+}
+
+.appNav .menu-links button {
+    margin-top: -2px;
+    min-width: 0;
+    border-bottom: 2px solid transparent;
+    border-radius: 0;
+}
+
+.logout {
+    color: #172321;
+    width: 400px;
+    margin-left: -175px;
+}
+
+.appNav .menu-links .expanded {
+    border-color: #3e81a5;
+}
+
+.appNav .menu-links .menu:last-child {
+    margin-right: 0;
+}
+
+.appNav .menu-links a:first-child {
+    position: relative;
+    top: -1px;
+}
+
+.appNav .menu-links a {
+    text-decoration: none;
+}
+
+/* Dropdown */
+.nav-dropdown h3 {
+    margin: 0.5rem 1rem 0.5rem
+}
+
+.nav-dropdown ul {
+    margin: 1rem 1.5rem;
+}
+
+.nav-dropdown a {
+    text-decoration: none;
+}
+
+.nav-dropdown a {
+    color: #263633;  
+}
+
+.nav-dropdown a:hover {
+    color: #263633;  
+} 
+
+.nav-dropdown .top-cta {
+    min-height: 0;
+    height: 15px;
+    background: none;
+}
+
+.nav-dropdown .top-cta a {
+    color: #3e81a5;
+    display: block;
+}
+
+.menu-item {
+    border-bottom: 1px solid #dee3e3;
+	display: flex;
+    height: 56px;
+	overflow: visible;
+	padding: 0;
+}
+
+.menu-item a {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    width: 100%;
+}
+
+.menu-item:hover svg, .menu-item:focus svg {
+    transform: translate(5px);
+    transition: transform 0.3s;
+}
+
+.menu-item:last-child {
+    border-bottom: none;
+    align-items: center;
+}
+
+.menu-item .have-question a {
+    width: auto;
+    position: absolute;
+    right: 0;
+    top: 14px;
+    padding: 8px 14px;
+}
+
+.menu-item .post-btn {
+    /* border-color: #2d576f; */
+    color: #2d576f;
+    font-size: 1rem;
+    padding: 5px 10px;
+    margin-left: 10px;
+    border: 1px solid #2d576f;
+    border-radius: 20px;
+}
+
+.MuiButton-label {
+    font-family: proximanova-regular,"Helvetiva Neue",Arial,sans-serif;
+    font-size: 17px !important;
+    text-transform: capitalize;
+}
+
+.MuiButton-text {
+    font-size: 16px !important;
+
+}
+
+
+
+
+
+
+
+
+/* Tablet */
+@media (max-width: 1025px) and (min-width: 600px) {
+    .appNav .menu-content {
+        height: 56px;
+        padding: 0 1rem;
+    }
+   .appNav .menu-logo img {
+        content:url("../../assets/holLife_just_logo.png");
+        width: 70px;
+        height: 50px;
+    }
+    .appNav .menu-links a {
+        font-size: 1.1rem;
+        line-height: 68px;
+        margin: 0 1rem;
+    }
+}
+
+@media (max-width: 599px) {
+    .appNav .menu-content {
+        height: 56px;
+        padding: 0 1rem;
+    }
+   .appNav .menu-logo img {
+        content:url("../../assets/holLife_just_logo.png");
+        width: 70px;
+        height: 50px;
+    }
+    .appNav .menu-links a {
+        font-size: 1rem;
+        line-height: 60px;
+        margin: 0 1rem;
+    }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+    .appNav .menu-logo {
+        width: 96px;
+    }
+   .appNav .menu-logo img {
+    content:url("../../assets/holLife_logo.png");
+    width: 180px;
+    height: 70px;
+    }
+    .appNav .menu-links a {
+        font-size: 1.2rem;
+        line-height: 72px;
+        margin: 0 1rem;
+    }
+}

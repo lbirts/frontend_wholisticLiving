@@ -1,0 +1,3 @@
+export default {
+    API_KEY: `KDCEHBKKNV7BBKKXUF4K2LS2GP5HTYHA`
+}

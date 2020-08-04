@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
+
+.coverpic {
+    width: 1680px;
+    height: 750px;
+}
+.square {
+    width: 1100px;
+    height: 700px;
+    border: 2px solid #3e81a5;
+    position: absolute;
+    top: 250px;
+    margin-left: 100px;
+}
+.square .line {
+    border: 2px solid #3e81a5;
+    width: 100px;
+    margin-top: 80px;
+    margin-left: 90px;
+}
+
+.square p {
+    font-size: 80px;
+    color: #3e81a5;
+    width: 900px;
+    margin-left: 90px;
+    text-align: left;
+    position: absolute;
+    top: 130px;
+    line-height: 8pc;
+    font-family: 'Playfair Display', serif;
+}
+
+.circle {
+    background-color: #3e81a5;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-left: 1400px;
+    margin-top: -80px;
+}
+
+.circle p {
+    color: white;
+    text-align: center;
+    width: 130px;
+    margin-left: 35px;
+    position: absolute;
+    top: 35px;
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+}

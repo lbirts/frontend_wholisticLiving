@@ -1,0 +1,228 @@
+.cardTitle {
+    width: 100%;
+    margin-left: 20px;
+    font-size: medium;
+    color: black;
+    font-weight: 600;
+}
+
+.cardLink {
+    padding-bottom: 100px;
+}
+
+.step-content {
+    margin-top: 100px;
+}
+
+.page-content {
+    margin-top: 50px;
+}
+
+.container-content {
+    position: relative;
+    justify-content: center;
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    margin: .5rem 0;
+    text-decoration: none;
+    background-color: #fff;
+    height: 112px;
+    padding: 24px;
+    text-align: left;
+    border: 1px solid #dee3e3;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    border-radius: 4px;
+    position: absolute;
+}
+.gridContainer {
+    margin: auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 40px;
+    position: relative;
+    justify-content: center;
+}
+
+.cardContainer:hover {
+    cursor: pointer;
+}
+
+.cardImg {
+    width: 50px;
+    height: 50px;
+    margin-right: 16px;
+    border-radius: 24px;
+    margin-left: -10px;
+    border: 2px solid #fff;
+}
+
+.cardImg:first-of-type {
+    margin-left: 0px;
+}
+
+.MuiStepIcon-root.MuiStepIcon-active, .MuiStepIcon-root.MuiStepIcon-completed {
+    color: #3e81a5 !important;
+}
+
+.MuiButton-containedPrimary {
+    background-color: #3e81a5 !important;
+}
+
+.careImg {
+    width: 80px;
+    height: 80px;
+    margin-right: 16px;
+    margin-left: -10px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+.careImg:first-of-type {
+    margin-left: 0px;
+}
+
+.careCard {
+    margin-top: -33px;
+}
+
+.careTitle {
+    font-size: medium;
+    color: black;
+    font-weight: 600;
+    /* text-align: start; */
+    /* margin-left: 23px; */
+}
+
+.cardSpecialty {
+    margin-top: 8px;
+}
+
+.availability {
+    margin-top: 30px;
+    /* margin-right: 190px; */
+    text-align: left;
+}
+
+.care {
+    width: 370px !important;
+}
+
+.extraCare {
+    text-align: left;
+    color: #3e81a5 !important;
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+}
+
+.extraCaret {
+    position: absolute;
+    right: 15px;
+    bottom: -22px;
+}
+
+.extraCare:hover svg, .extraCare:focus svg {
+    transform: translate(5px);
+    transition: transform 0.3s;
+}
+
+.gridTitle {
+    margin-left: -20px;
+}
+
+.selected-date {
+    font-size: 17px;
+}
+
+.left-arrow {
+    position: absolute;
+    margin-left: -300px;
+    transform: scale(-1, 1);
+    margin-top: 20px;
+}
+
+.right-arrow {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+.timeslots {
+    display: grid;
+    grid-template-columns: 30px 30px;
+    margin-top: 90px;
+    grid-column-gap: 300px;
+    margin-left: -200px;
+}
+
+.hour {
+    list-style-type: none;
+}
+
+.slot {
+    color: #3e81a5 !important;
+}
+
+.slot button {
+    color: #3e81a5 !important;
+}
+
+.no-times {
+    text-align: center !important;
+    margin-right: -530px !important;
+}
+
+.notes {
+    width: 700px;
+}
+
+.notes .changeText {
+    border: 1px solid lightgrey;
+    height: 200px;
+    margin-top: 100px;
+    margin-right: 20px;
+    text-align: left;
+    width: 700px;
+}
+
+.notes .submt {
+    width: 150px;
+    height: 30px;
+    /* justify-content: center; */
+    background-color: #3e81a5;
+    border-radius: 25px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.success {
+   text-align: center; 
+   margin-top: 50px !important;
+   font-size: 30px !important;
+   width: 500px;
+   margin-left: 450px !important;
+}
+
+/* .day {
+    background-color: red !important;
+} */
+
+
+
+/* .available-times {
+    width: 300px;
+    margin-left: 500px;
+} */
+
+/* @media (max-width: 910px) {
+    .gridContainer {
+        width: 600px;
+    }
+} */

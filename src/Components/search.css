@@ -1,0 +1,19 @@
+/* .search {
+    border: 1px solid red !important;
+    border-radius: 25px;
+    width: 400px;
+    height: 34px;
+} */
+
+.remedies { 
+    margin: auto;
+    width: 500px; 
+}
+
+.search {
+    width: 500px;
+}
+
+.ui.search > .ui.input.icon { 
+    width: 100%; 
+}

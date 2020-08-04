@@ -1,0 +1,299 @@
+[
+    {
+        
+        "name": "Acai",
+        "description": "Acai has antioxidant effects. Acai is the fruit of a palm mainly found in South America. The berries and seeds contain compounds called flavonoids that have antioxidant effects. Some laboratory studies suggest acai may reduce cholesterol, prevent diseases of the heart and blood vessels, and cause programmed cell death in leukemia cells. However, human stuides are needed to confirm these effects.",
+        "uses": [
+            "To prevent cancer: In vitro studies show that flavonoids present in acai fruit have antioxidant properties. There are no animal or human studies to support that acai is useful in cancer prevention.",
+            "To prevent heart disease and stroke: In vitro studies show that acai fruit may be useful but human data are lacking.",
+            "Diarrhea",
+            "Autoimmune disorders",
+            "Allergies"
+        ],
+        "warnings": "Theoretically, Acai may interfere with the actions of certain chemotherapy drugs due to its antioxidant effects."
+    },
+    {
+        "id": 2,
+        "name": "Aloe Vera",
+        "description": "Aloe vera can help soothe sunburn, relieve mild skin irritation or inflammation, moisturize hair, you can use it for insect bite relief, natural lubricant, a natural shaving cream alternative, and make-up removal. It’s also used in foods as flavouring, and for preventing tooth decay. The succulent stores water, along with other nutrients, in its leaves. While most of the leaf is water (99%), it contains around 75 active ingredients, according to a study published in the International Journal of Research and Medical Sciences.",
+        "uses": [
+            "To treat burns: Scientific evidence supports the topical use of aloe for minor burns.",
+            "To prevent and treat redness, rash, and pruritus caused by radiation therapy: Clinical trials have produced conflicting results in support of and against this use. Topical use of aloe is generally safe.",
+            "To prevent oral mucositis caused by chemotherapy: There is evidence that aloe, when combined with chemotherapy, may prevent oral mucositis.",
+            "As a skin moisturizer: No scientific evidence supports this use.",
+            "To treat inflammation associated with conditions such as cold sores, eczema, and pruritis: Clinical evidence supports this use.",
+            "To treat cancer: No scientific evidence supports this use. Cancer therapy using injections of acemannan, a substance found in aloe, resulted in death of several patients.",
+            "To treat diabetes: Two non-randomized trials conducted by the same group suggest that blood glucose levels may be reduced by aloe vera. Further study is warranted.",
+            "To treat ulcerative colitis: A small randomized, controlled trial shows weak support for this use. More research is needed.",
+            "Dry Skin",
+            "Diabetes",
+            "Ulcerative colitis"
+        ],
+        "warnings": "Aloe gel should not be confused with aloe juice or aloe latex, both of which contain anthraquinone, a potent laxative. When using Aloe you want to be sure not to apply it to any open wounds. Also be careful when processing the leaves. Most of the aloe leaf is edible, but when you cut it you may notice a yellow substance – this can have a powerful laxative effect and potentially kidney problems. For this reason, it’s best to rinse off any part of the leaf you eat, ensuring there isn’t any of the yellow latex."
+    },
+    {
+        "id": 3,
+        "name": "American pawpaw",
+        "description": "Pawpaw is toxic to some cancer cells, but such effects have not been shown in humans. Asimina triloba, commonly known as pawpaw, is native to North America and has edible bean-shaped fruits. The plant extract is used in anti-lice shampoo and in pesticides. The major components of pawpaw are compounds known as acetogenins. They prevent the cell from making ATP, an important energy source. In lab studies, the extract killed cancer cells resistant to commonly used chemotherapy drugs such as adriamycin. It also appeared to be more toxic to cancer cells than to normal cells. However, studies on these effects have not been conducted in humans.",
+        "uses": [
+            "Anti-lice treatment: Pawpaw extract has been shown to be effective as an anti-lice shampoo.",
+            "Anti-parasitic treatment: Studies have not evaluated pawpaw’s ability to kill parasites. There is laboratory-based evidence that attribute this ability to other closely-related plants.",
+            "Cancer treatment: Pawpaw has been shown to be effective against cancer cells in test tubes, but experiments in mice produced conflicting results. There are no published clinical studies in humans to determine the safety or effectiveness of pawpaw for cancer treatment."
+        ],
+        "warnings": "Pawpaw should not be confused with graviola, also known as Brazilian pawpaw, or with papaya, another fruit with a similar texture and appearance. There are several Web sites that promote pawpaw as an effective treatment for cancer. However, there is very little scientific evidence to support such claims. Can cause allergic reactions, nerve toxicity or vomiting."
+    },
+    {
+        "id": 4,
+        "name": "Ashwagandha",
+        "description": "A few preliminary studies suggest ashwagandha may help reduce stress, anxiety, and fatigue, but larger studies are needed Ashwagandha, also known as Indian ginseng, is a popular Ayurvedic herb and considered a tonic with multiple properties. In the lab, ashwagandha has been shown to have anti-inflammatory effects and relax the central nervous system in animals. Other experiments suggest it can enhance immune cells and impair or kill cancer cells, but more studies are needed to determine whether these effects can occur in humans. Clinical trials suggest ashwagandha may help reduce anxiety, stress, and fatigue, but larger studies are needed. Ashwagandha may affect certain lab tests that measure thyroid functioning and digoxin levels. Hemolytic anemia and abdominal pain were reported following ingestion of contaminated ashwagandha/mucuna pills.",
+        "uses": [
+            "To reduce stress and anxiety: A few studies suggest ashwagandha may be helpful for anxiety and stress.",
+            "To treat diabetes: Lab studies suggest that ashwagandha may improve type 2 diabetes. Human studies are needed.",
+            "To reduce fatigue: Results from a small study in patients with cancer-related fatigue suggest benefit. Additional studies are needed to confirm this.",
+            "To reduce pain: A clinical trial suggests that a standardized extract may help patients with knee joint pain. Mild side effects like nausea and stomach irritation were observed in a few patients.",
+            "To treat rheumatoid arthritis: A clinical trial showed that a compound of herbs and minerals containing ashwagandha reduced rheumatoid arthritis pain. Because the formula contained multiple herbs and minerals, whether ashwagandha played a role in observed benefits is unclear.",
+            "As a sedative: In animal studies, ashwagandha has a tranquilizing effect.",
+            "Sleep"
+        ],
+        "warnings": "Hemolytic anemia and abdominal pain were reported following ingestion of ashwagandha/mucuna pills containing high amounts of lead. Symptoms resolved following standard treatment. Commonly reported effects include mild to moderate, short duration drowsiness, upper GI discomfort, and loose stools."
+    },
+    {
+        "id": 5,
+        "name": "Ayurveda",
+        "description": "Ayurveda is a medical system that originated in India. Oral formulations, dietary and lifestyle changes, and yoga or meditation are the main components. Herbs such as curcumin have beneficial effects but should be used under supervision. Yoga and meditation help alleviate side effects associated with cancer and its treatments. Many of the more frequently used herbs, such as ashwagandha (Withania somnifera), guggul (Commiphora mukul), Boswellia (Boswellia serrata), gotu kola (Centella asiatica), curcumin (Curcuma longa), ginger (Zingiber officinale), aloe (Aloe barbadensis), and garlic (Allium sativum), have been studied extensively in vitro and in vivo and show antioxidant, antitumor, antimicrobial, immunomodulatory, or anti-inflammatory properties. Herbs often used to treat diabetes show hypoglycemic activity in vitro and in vivo. Clinical trials confirmed that some Ayurvedic botanical formulations can be used to treat acute viral hepatitis, acne vulgaris, obesity and rheumatoid arthritis. Yoga and meditation have shown benefits in reducing symptoms associated with cancer and its treatments.",
+        "uses": [
+            "To treat acne: Certain herbal preparations have been shown to be effective in reducing acne.",
+            "To prevent and treat cancer: No scientific evidence supports this use.",
+            "To treat cancer related symptoms: Recent studies demonstrate that yoga helps improve sleep pattern in lymphoma patients and also reduces symptoms of stress in breast and prostate cancer patients.",
+            "To treat heart disease: There are no data to back this claim.",
+            "To treat diabetes: Several herbs used in Ayurveda have blood glucose-lowering effects, but the clinical evidence for their use is not strong.",
+            "To treat fibromyalgia: One clinical study found that ayurvedic dietary, herbal, and meditation therapies resulted in a significant improvement of symptoms in patients with fibromyalgia",
+            "To lower high cholesterol: A clinical trial showed that certain herbal preparations could lower blood cholesterol and triglyceride levels in overweight patients.", "Weight Loss", "Rheumatoid Arthritis", "Parkinson's Disease"
+        ],
+        "warnings": "Although heavy metals such as lead, gold, and silver are traditionally used in ayurvedic formulations, the use of lead for its assumed benefit has been a cause of concern. The US Centers for Disease Control and Prevention reported 12 cases of lead poisoning associated with the use of Ayurvedic medications. In the last few decades, commercialized meditation regimens have emerged to the concern of many. They often associate meditation with supernatural abilities. Such claims are not based on scientific evidence and should not be confused with meditation practice in Ayurveda."
+    },
+    {
+
+        "id": 6,
+        "name": "Beta-Carotene - Yellow and Orange Fruits",
+        "description": "Beta-carotene is an antioxidant that is found in yellow and orange fruits, such as apricots, cantaloupe, and papaya, as well as squash, carrots, sweet potatoes, pumpkin, leafy greens, and broccoli.High dietary intake of fruit and vegetables has been associated with reduced risk of cancer and heart disease. Although beta-carotene supplements do not appear to prevent or effectively treat either of these diseases, beta-carotene obtained from the diet may be beneficial. This is because it may interact with other phytochemicals in fruits and vegetables and have a greater effect on the body than do supplements.",
+        "uses": [
+            "As an antioxidant: Several studies support this use",
+            "To prevent and treat heart disease: Several large and well-designed clinical trials and population studies show that taking beta-carotene supplements does not reduce the risk of myocardial infarction (heart attack), angina, or coronary artery disease. In fact, a review of clinical trials showed that beta-carotene was associated with a small increase in overall death as well as death to cardiovascular disease.",
+            "To prevent cataracts: Clinical trials generally have shown that taking beta-carotene supplements does not reduce the risk of developing cataracts, but a small study found that amounts of beta-carotene in the blood were associated with decreased cataracts, indicating that beta-carotene obtained from the diet, but not supplements, may be helpful.",
+            "To prevent and treat macular degeneration: One clinical trial suggested that taking an antioxidant supplement plus zinc reduces the risk of macular degeneration, but it is not clear whether beta-carotene, or any of the other antioxidants in this supplement, were responsible for these effects.",
+            "To stimulate the immune system: Some laboratory experiments show that beta-carotene stimulates certain aspects of the immune system, but it is not certain that this effect occurs in the human body.", "To treat oral leukoplakia: Several clinical trials have shown that beta-carotene supplementation can induce remission of oral leukoplakia, a pre-cancerous lesion in the mouth.", "To improve cognition: Clinical findings suggest that long-term supplementation with beta-carotene may improve cognition."
+        ],
+        "warnings": "Prolonged intake of high doses of beta-carotene can lead to carotenodermia, a harmless yellowish discoloration of the skin."
+    },
+    {
+        "id": 7,
+        "name": "Biotin",
+        "description": "Biotin is widely available in foods. Biotin supplements are used to promote nail, skin, and hair health, but evidence is limited. Some people also use it for nerve, muscle, and diabetic symptoms. Patients should discuss use of this supplement beforehand with their doctor. Biotin is an important coenzyme involved in sugar and fat metabolism. It is found in a variety of foods such as meat, vegetables, and eggs, and is also made in the intestines by bacteria. Some studies show that taking biotin can benefit patients with multiple sclerosis or may improve diabetic nerve pain. Patients with diabetes may have a greater chance of being biotin-deficient. Consuming large amounts of egg whites or taking epilepsy drugs may also lead to biotin deficiency. However, there is no evidence for using biotin supplements in general, and deficiency in this nutrient is otherwise quite rare. In addition, too much biotin may weaken immune response and reduce the number of white blood cells. It may also cause inaccurate lab test results. Therefore, patients should consult with their doctor to determine the source of a true deficiency, or to discuss proper use of this supplement.",
+        "uses": [
+            "To treat multiple sclerosis: Preliminary data from a long-term study suggests that biotin is safe and may reduce symptoms in some patients. However, this study is ongoing and the final result is still not known.",
+            "To treat diabetic peripheral neuropathy: A small clinical study supports this claim. Larger studies are needed to confirm the effects.",
+            "To treat brittle nails: A small survey indicates that biotin may be effective. Further studies are needed.",
+            "Hair Loss"
+        ],
+        "warnings": "Taking high doses of biotin can incorrectly affect the results of many types of lab tests, including some used to detect heart or thyroid disease. It may also produce invalid results with some types of pregnancy tests. Therefore, it is important to tell your healthcare provider about any use of biotin supplements."
+    },
+    {
+        "id": 8,
+        "name": "Bladder wrack",
+        "description": "Bladder wrack extract is rich in iodine and is claimed to stimulate thyroid activity to treat obesity. There is no evidence to support this. Women who took bladder wrack showed improvement in their menstrual symptoms. Topical application of a bladder wrack extract showed benefits for skin. Further studies are needed to confirm these effects. Bladder wrack is often referred to as brown kelp but it should not be confused with kelp, which is another species of seaweed.",
+        "uses": [
+            "Skin care: Results of a small clinical study showed that topical bladder wrack extract can improve the elasticity of skin.",
+            "Hypothyroidism: Bladder wrack is rich in iodine and has been used as a supplement for patients with hypothyroidism caused by iodine deficiency.",
+            "Menstrual abnormalities: In a small study, women who took bladder wrack reported improvement in menstrual symptoms.",
+            "Weight Loss", "Fatigue"
+        ],
+        "warnings": "Consumption of bladder wrack harvested from polluted waters may cause kidney toxicity due to the presence of heavy metals such as arsenic, cadmium and mercury."
+    },
+    {
+        "id": 9,
+        "name": "Burdock Root",
+        "description": "Certain components of burdock were shown to stop the growth of bacteria and fungi in lab studies. In animal experiments, the root extract lowered blood sugar, stimulated uterine contractions, induced an immune response, and protected against DNA mutations. A clinical study found that application of a cream containing burdock extract improved the appearance of wrinkled skin. Some burdock teas are contaminated with alkaloids such as atropine from the belladonna plant, which can cause undesirable effects on the nervous system.",
+        "uses": [
+            "To lower blood sugar in diabetes: A small study found that burdock reduced proteinuria and improved post-meal blood glucose levels and lipid metabolism in patients with diabetic nephropathy.",
+            "To reduce wrinkles: One clinical study found that application of a cream containing burdock extract improved the appearance of wrinkled skin. More studies are needed to confirm this effect.",
+            "To treat microbial infections: Although certain compounds in burdock can stop the growth of bacteria and fungi in lab studies, human data are lacking.",
+            "Eczema", "Psoriasis", "Wrinkle Reduction"
+        ],
+        "warnings": "Case Report: A 53-year-old man developed anaphylaxis (redness over his entire body and dyspnea) one hour after taking boiled burdock. His symptoms resolved following treatment."
+    },
+    {
+        "id": 10,
+        "name": "Bromelain - Pineapple",
+        "description": "Bromelain, obtained from the stem of the pineapple, is an enzyme that breaks down protein molecules. In laboratory experiments, bromelain prevented several steps of blood clotting and decreased some substances that cause inflammation. Bromelain increases the absorption of antibiotics and when used topically, helps remove dead and damaged tissue from burns. Bromelain can help digestion and absorption in patients with digestive tract cancers. Anticancer activity has not been studied in humans.",
+        "uses": [
+            "To treat arthritis: Laboratory studies show that bromelain reduces the levels of some substances that cause inflammation, but results from clinical trials are mixed.",
+            "To treat burns of the skin: Studies support this use.",
+            "To reduce swelling: Small clinical studies show that bromelain helps reduce swelling.",
+            "To prevent and treat cancer: Laboratory studies suggested bromelain has anticancer activities. But these effects have not been confirmed in humans."
+        ],
+        "warnings": "Allergic Reactions have been reported"
+    },
+    {
+        "id": 11,
+        "name": "Broccoli Sprouts",
+        "description": "Broccoli sprouts are young broccoli plants. Lab studies show they contain compounds that have anticancer activities. Preliminary studies are being conducted to see whether there may also be some benefit in humans. Other studies suggest that broccoli sprouts can help eliminate environmental toxins and protect against some viruses and bacterial infections. However, more research is needed to confirm these effects.",
+        "uses": [
+            "Cancer prevention: Studies done in the lab and in animals show that broccoli sprouts contain sulforaphane, which has anticancer properties. In a study conducted in humans, broccoli sprouts were found to play a role in eliminating cancer-causing chemicals. Large-scale studies are needed to confirm such effects.",
+            "Cancer treatment: Broccoli sprouts appear to have anticancer effects in the lab. Preliminary studies are being conducted to see whether there may also be some benefit in humans.",
+            "Bacterial infections: Small studies in humans suggest that broccoli sprouts may help reduce inflammation of the stomach caused by the bacterium Helicobacter pylori."
+        ],
+        "warnings": "Digestive problems, nausea, and vomiting in a small study of patients with advanced pancreatic cancer."
+    },
+    {
+        "id": 12,
+        "name": "Cannabis",
+        "description": "Research shows that cannabis helps relieve pain, reduces chemo-induced nausea and vomiting, and decreases the number of seizures in rare forms of epilepsy. But non-medical use can result in addiction, side effects, and withdrawal syndrome that makes it difficult to stop use, ultimately leading to relapse.",
+        "uses": [
+            "Pain: Data from clinical studies show that cannabis helps relieve pain associated with neuropathy, fibromyalgia, and rheumatoid arthritis",
+            "Multiple Sclerosis: Cannabinoids were shown to help reduce spasticity and neuropathic pain in multiple sclerosis patients",
+            "Spasticity: Cannabinoids were shown to help reduce spasticity in patients with multiple sclerosis", "Epilepsy: Epidiolex, an oral CBD solution, reduced the number of seizures in patients with Lennox-Gastaut syndrome or Dravet syndrome, both rare forms of epilepsy.", "Glaucome", "Chemotherapy", "Sleep", "Apptetite Stimulant"
+        ],
+        "warnings": "Short-term side effects with use of medical cannabinoids include dizziness, dry mouth, nausea, fatigue, sleepiness, euphoria, vomiting, disorientation, drowsiness, confusion, loss of balance, and hallucination. Chronic bronchitis (inflammation of bronchial tubes that carry air to and from lungs) has been reported in regular users of cannabis products compared to non-users. Inhalation may cause heart attack, sudden cardiac death, disease of the heart muscle, stroke, transient ischemic attack (a brief stroke-like attack), and cannabis arteritis (inflammation of the lining of arteries)"
+    },
+    {
+        "id": 13,
+        "name": "Calcium",
+        "description": "Calcium plays several essential roles in the human body. It is a main structural element in bone, which acts as a reservoir for calcium so that stable blood calcium levels are maintained. This is necessary for the many roles calcium plays in cells including muscle contraction, nerve transmission, blood clotting, and enzyme reactions. When calcium intake and bodily estrogen levels are low, the body takes calcium from bones and uses it for other processes, resulting in osteoporosis. Inadequate blood calcium levels are linked to high blood pressure. Whether the use of calcium supplements can increase the risk for heart disease or cardiac events is still unclear. Adequate calcium intake may help prevent osteoporosis, bone fracture, and colorectal cancer. The links of calcium supplements to increased prostate cancer risk may occur for reasons other than the supplements themselves.",
+        "uses": [
+            "To prevent cancer: Many clinical studies have been performed in humans, but the consistent effects of dietary and supplemental calcium on cancer have not been determined. There does appear to be an increased risk for prostate cancer, but a decreased risk for colorectal cancer with calcium supplements. Additional studies are warranted.",
+            "To reduce cardiovascular disease risk: Studies are mixed on whether calcium supplementation protects against cardiovascular disease or increases risk for this disease. Additional studies are needed to clarify under what circumstances calcium may confer benefits or risks.",
+            "To lower high blood pressure: Most clinical trials have found that calcium from the diet and from supplements can have a small effect on lowering both systolic and diastolic blood pressure.", "To prevent the progression of osteoporosis: Some, but not all, large clinical trials have found that calcium supplementation prevents bone loss, especially in older women. Reduced bone loss may also prevent fractures.", "Increasing dietary calcium from a variety of foods including non-dairy sources instead of taking supplements has been associated with a lower risk of kidney stones."
+        ],
+        "warnings": "Constipation, flatulence, chalky taste, and dry mouth; higher calcium levels in blood or urine in older women. Modest increased risk of urinary stones with long-term use. Nausea occurs rarely. Intake of high-dose calcium supplements (>1 g/day) can increase the risk of stroke."
+    },
+    {
+        "id": 14,
+        "name": "Chamomile",
+        "description": "Chamomile has been used as a medicinal herb to treat various conditions including anxiety, sleeplessness, and gastrointestinal problems. It is also used topically for inflammatory skin conditions. Laboratory studies show that substances in chamomile can kill bacteria, reduce inflammation, and calm muscle spasms. It has also been shown to inhibit the growth of polio and herpes viruses as well as ulcers. Several chemicals in chamomile leaves might help to prevent inflammation. Apigenin, a compound isolated from chamomile, binds to brain cells in the same areas as well-known depressant drugs, which could explain chamomile’s sedative effects.",
+        "uses": [
+            "To relieve generalized anxiety disorder (GAD): Chamomile may have modest benefits for those with mild to moderate GAD.",
+            "Insomnia: It has long been thought that chamomile tea can induce relaxation. However, clinical data are lacking.",
+            "As a mouthwash, to treat mucositis associated with radiation therapy and chemotherapy: Clinical trials show conflicting results for this use. A more recent trial did not find benefit with an oral solution that contained chamomile as well as propolis, aloe vera, and calendula. More research is needed.", "Topically, as an antiseptic and to treat skin ulcers: Studies in animals show that substances in chamomile can kill bacteria and viruses, reduce inflammation, and prevent the growth of ulcers. Clinical trials have not been conducted.", "Topically, to reduce the inflammation of hemorrhoids: Animal studies show that substances in chamomile can reduce inflammation. Human data are lacking."
+        ],
+        "warnings": "Hypersensitivity reactions including asthma, contact dermatitis, and anaphylaxis can occur following exposure to chamomile."
+    },
+    {
+        "id": 15,
+        "name": "Cell Food",
+        "description": "Cellfood is a line of dietary supplements sold over the internet and in health food stores. Promoters claim that it contains minerals, enzymes, amino acids, and dissolved oxygen, which hyperoxygenates the body. Lab studies show that Cellfood has antioxidant effects, and causes some cancer cells to die. But these effects have not been shown in humans. Supplements with antioxidant properties are not recommended during chemotherapy and radiotherapy.",
+        "uses": [
+            "To enhance athletic performance", "To prevent and treat cancer"
+        ],
+        "warnings": "Theoretically, antioxidants can decrease the efficacy of certain chemotherapy drugs that rely on the generation of free radicals for their cytotoxic effects."
+    },
+    {
+        "id": 16,
+        "name": "Cayenne",
+        "description": "The capsicum pepper contains a chemical called capsaicin that is a powerful irritant. Because this compound can affect nerves that report painful stimuli to the brain, it has become useful in some forms such as over-the-counter creams for some skin conditions and nerve pain. Oral forms have been marketed for circulation problems, poor appetite, and weight loss, but there are no studies to confirm such effects. It may be helpful for pain from mucositis caused by cancer therapy, but the study had a very small number of patients enrolled and effects were incomplete and temporary.",
+        "uses": [
+            "To treat headaches: Laboratory data show that capsaicin blocks pain fibers, but whether it can treat headaches is unknown.", "To manage type 2 diabetes: Capsaicin may help to maintain insulin levels and lower blood glucose levels. Further study is needed.", "To improve circulation", "To treat burning mouth syndrome", "Weight Management"
+        ],
+        "warnings": "Oral cayenne may provide limited relief of mucositis pain caused by radiation treatment, but it may cause gastric side effects in certain concentrations."
+    }, 
+    {
+        "id": 17,
+        "name": "Cinnamon",
+        "description": "Current evidence suggests benefits of cinnamon for lowering glucose, cholesterol and triglyceride levels. Cinnamon refers to several plants native to Southeast Asia. The bark, rich in essential oil, is used as a flavoring agent and as a spice. Cinnamon has a long history of use as an herbal medicine. Laboratory studies have shown that cinnamon has antibacterial, anti-inflammatory, and antioxidant properties. It was also shown to lower blood glucose levels in patients with type 2 diabetes, to lower total cholesterol and triglyceride levels, to reduce dental plaque and gingivitis, and to improve metabolic syndrome (metabolic disorders that increase the risk of cardiovascular disease, stroke and diabetes). Topical use of a cinnamon containing ointment was shown to help relieve perineal pain and improved healing of episiotomy incision in postpartum women.",
+        "uses": [
+            "Diabetes: A systematic reviews and meta analysis showed that cinnamon is useful in lowering blood glucose, lipids, and insulin levels", "Inflammation: Laboratory studies showed that cinnamon can reduce inflammation. Human data are lacking.", "Arthritis: Cinnamon is used in traditional medicine for arthritis but there is no scientific evidence to support this claim."
+        ],
+        "warnings": "Some cinnamon products contain high levels of coumarin, a natural constituent, that can cause liver damage."
+    },
+    {
+        "id": 18,
+        "name": "Chitosan - shellfish",
+        "description": "The main ingredient in chitosan (KY-to-san) is chitin, an extract from the shells of sea creatures such as shrimp, lobster, and clams. It can also come from the cell walls of Reishi mushrooms. Marketers promote chitosan as a weight-loss product, claiming it binds to fat and cholesterol to prevent their absorption. However, studies in people have found that chitosan did not increase levels of fat excreted. Other studies suggest it may help improve cholesterol levels. However, more trials are needed before definite conclusions can be drawn. Chitosan is used as an ingredient in many medical-grade products including hydrogels and bandages to improve wound healing, as well as in dental applications. Scientists think it may enhance the process of new tissue formation.",
+        "uses": [
+            "For weight loss: There is not enough evidence to support the use of chitosan alone without dietary changes or exercise for weight loss.", "To lower cholesterol: Some clinical trials support this use, but long-term effectiveness is unknown.", "Topically, for improved wound healing: Laboratory evidence and a clinical trial support this use."
+        ],
+        "warnings": "Can cause constipation, flatulence, and bloating"
+    },
+    {
+        "id": 19,
+        "name": "Chia",
+        "description": "The seeds of the chia plant are rich in fiber, polyunsaturated fatty acids (PUFAs), and alpha-linolenic acid, a type of essential fatty acid. They are thought to be useful for reducing risk of heart disease and as an aid in weight management. Data from a few small studies suggest that chia seeds may be helpful for patients with diabetes or help contribute to feelings of fullness, but chia did not appear to affect weight loss. In addition, reviews of the current evidence do not adequately support these claims. Larger well-designed trials are needed.",
+        "uses": [
+            "Heart health: Most studies of chia’s effects on heart disease risk have not shown meaningful results.", "Weight loss: Results from a clinical trial showed that chia did not affect weight loss. More studies are needed."
+        ],
+        "warnings": "Never consume dry chia seeds on their own, as they can absorb up to 27 times their weight in water. This may cause them to expand and become lodged in the throat. Chia seeds should be prepared or mixed with enough liquid to allow them to expand before eating."
+    },
+    {
+        "id": 20,
+        "name": "D-limonene - Citrus",
+        "description": "D-limonene is derived from the peels of citrus fruits. It showed anti-inflammatory, wound healing and anticancer effects in laboratory studies. D-limonene was shown to alter the signaling pathways within cancer cells in a way that stops cancer cells from multiplying and causes their death (this is called “apoptosis”). In animal models, D-limonene slowed the growth of pancreatic, stomach, colon, skin, and liver cancers. It also slowed formation of tumors and their progression in animals exposed to cancer-causing substances. However, these anticancer effects have not been shown in humans.",
+        "uses": [
+            "Weight loss", "To treat heartburn and gastroesophagel reflux"
+        ],
+        "warnings": "Can cause nausea, vomiting, diarrhea, allergic reations, and asthma"
+    },
+    {
+        "id": 21,
+        "name": "Cranberry",
+        "description": "Cranberries contain compounds known as proanthocyanidins that have been shown to prevent bacteria from attaching to the bladder wall, which could cause UTIs. Human studies suggest it may be helpful for this purpose in some limited populations, including prostate cancer patients, but overall evidence is conflicting. Cranberry may also prevent bacteria from attaching to the stomach lining and areas in the mouth. Although lab studies suggest activity with several types of cancer cells, this has yet to be confirmed in human studies.",
+        "uses": [
+            "Prevention and treatment of urinary tract infections (UTIs)", "Prevention of stomach ulcers", "Prevention of gum disease/cavities"
+        ],
+        "warnings": "In patients who are prone to kidney stones, regular use of cranberry should be limited as it contains oxalates, a compound found in the most common form of kidney stones."
+    },
+    {
+        "id": 22,
+        "name": "Dandelion",
+        "description": "Dandelion is used in traditional medicine to treat many ailments. Laboratory studies have shown that dandelion can kill certain bacteria and other microbes. It was also found to have anticancer properties in various cancer cells, but studies have not been conducted in humans. Dandelion has estrogenic activity and therefore may increase the growth of hormone-sensitive cancer cells. Dandelion can also promote urination.",
+        "uses": [
+            "To treat diabetes", "To stimulate lactation", "To treat jaundice and other liver diseases ", "To promote urination"
+        ],
+        "warnings": "Dandelion was determined to be an important allergen in children."
+    },
+    {
+        "id": 23,
+        "name": "Ellagic Acid - Raspberries",
+        "description": "Ellagic acid is a naturally occurring compound called a tannin, found in red raspberries, strawberries, pomegranates, and walnuts. In laboratory studies, ellagic acid showed  antiviral, antibacterial and antioxidant and cancer-preventive properties. Small clinical studies have shown that ellagic acid may lower cholesterol and decrease lipid peroxidation in patients with metabolic syndrome; and may help restore cognitive performance associated with mild age-related decline. Consuming red raspberries may help improve endothelial function.",
+        "uses": [
+            "To prevent cancer", "To lower cholesterol"
+        ],
+        "warnings": "You are taking drugs that are substrates of Cytochrome P450: Ellagic acid inhibits cytochrome P450  2A2, 3A1, 2C11, 2B1, 2B2 and 2C6 enzymes, and may increase the risk of side effects of these drugs. Clinical relevance is not known."
+    },
+    {
+        "id": 24,
+        "name": "Elderberry",
+        "description": "Elderberry flowers and fruit are found in remedies to reduce cold and flu symptoms, and a few small studies have demonstrated that effect. The berries are rich in nutrients, but raw elderberries are inedible and must be properly cooked before they can be ingested. Several components in elderberry may also block infection, but more studies are needed. Laboratory studies indicate that the chemopreventive properties of elderberry are weak, and elderberry has not been found effective for cardiovascular disease or to improve cholesterol levels. Unsubstantiated claims that elderberry prevents or treats AIDS, diabetes, or other diseases have recently been halted by the FDA. Importantly, patients should not forego or avoid legitimate treatments, and consult their physicians about the use of elderberry when being treated for various conditions.",
+        "uses": [
+            "To prevent cancer", "To heart disease", "To reduce cold and flu symptoms", "To treat constipation", 
+            "To promote urination", "To prevent or treat HIV/AIDS", "To prevent or reduce respiratory infections or sinusitis"
+        ],
+        "warnings": "Raw or unripe elderberries contain toxic compounds known as cyanogenic glycosides and must be cooked sufficiently to avoid risk of cyanide toxicity. Elderberry leaves and stems also contain these compounds and should not be ingested at all. Consuming elder bark, leaves and raw elderberries have caused poisoning and hospitalization."
+    },
+    {
+        "id": 25,
+        "name": "Echinacea",
+        "description": "Echinacea extract appears to stimulate immune cells in laboratory and animal studies. Some compounds found in echinacea appear to reduce inflammation, relieve pain, and kill bacteria and viruses directly. Human studies have found that echinacea is not effective for preventing the common cold or to treat respiratory infections, but it may shorten the duration of colds. One large clinical trial suggested a specific echinacea formulation was as effective as  a prescription drug to treat influenza, with fewer side effects. Few studies have been conducted on echinacea with respect to cancer or cancer treatment. Some studies suggest that echinacea could alter the effectiveness of some anticancer drugs or cause adverse effects.",
+        "uses": [
+            "To treat the common cold", "To stimulate the immune system", "To treat viral infections", "For faster wound healing"
+        ],
+        "warnings": "Common side effects include headache, dizziness, nausea, constipation, mild stomach pain, skin rash, and irritation"
+    },
+    {
+        "id": 26,
+        "name": "Folate",
+        "description": "Folate is a member of the vitamin B complex that must be obtained from food sources like grains, leafy vegetables, and liver. It is important for cell division, and if not consumed enough from food, can lead to anemia and birth defects. Folic acid is a form of folate used as a supplement to correct deficiencies. It is also added to some processed foods to increase dietary consumption. Some studies suggest adequate folate intake can help reduce the risk of Alzheimer’s disease, heart disease, and certain types of cancer, but other studies find increased colon and skin cancer risks with higher intake levels. Excess folate or folic acid may mask vitamin B12 deficiency.",
+        "uses": [
+            "To treat Alzheimer’s disease: Studies have linked low dietary folate and low folate levels in the blood with Alzheimer’s disease.", "To prevent cancer: Some studies have shown that higher levels of folate reduce the risk for various cancers, but other studies found it may increase precancerous colon abnormalities or skin cancer risk.", "To prevent heart disease: Low folic acid levels have been linked to higher homocysteine levels, a risk factor for heart disease-related death. However, further studies are needed to understand this association.", "To prevent neural tube birth defects Studies have shown a significant decrease in risk of some types of birth defects with increased dietary folate."
+        ],
+        "warnings": "Increased risk of toxicity with overconsumption. In a 43-year-old man with low haemoglobin and multiorgan dysfunction syndrome (MODS), folate supplementation was associated with promoting lymphoma progression."
+    },
+    {
+        "id": 27,
+        "name": "Flaxseed",
+        "description": "Results from clinical studies are mixed on flaxseed’s ability to reduce cholesterol. Other studies suggest it may reduce blood pressure and help with some aspects of diabetes or related conditions, especially along with other lifestyle modifications. Flaxseed has also been shown to affect intracellular signals within the body that may play a role in breast and prostate cancer growth. Because flaxseed has phytoestrogenic effects, patients with estrogen receptor positive (ER+) breast cancer should consult their physicians before using flaxseed.",
+        "uses": [
+            "Cancer prevention: Studies of postmenopausal women showed that flaxseed supplementation improved the ratio of hormones that are thought to help prevent breast cancer. Studies in animals have shown promising results, but human data are lacking.", "Diabetes and associated conditions: Some studies suggest supplementation with flaxseed may help some aspects of diabetes or related conditions, especially along with other lifestyle modifications.", "Menopausal symptoms: A study showed flaxseed to be as effective as hormone replacement therapy in the management of menopausal symptoms."
+        ],
+        "warnings": "Side effects include Allergic reactions, Longer luteal phase of the menstrual cycle, Increased bowel movement, Constipation, Flatulence"
+    }
+]

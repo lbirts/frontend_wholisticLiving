@@ -1,0 +1,287 @@
+.cardDiv {
+    border: 1px solid lightgrey;
+    /* margin-top: 20px; */
+    border-radius: 8px;
+    /* width: 700px; */
+    display: flex;
+	flex-direction: column;
+	border-radius: 5px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+
+}
+
+.avatarNameVertical img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.avatarNameVertical .nameVertical .center {
+    margin-left: -1390px;
+    margin-top: -50px;
+}
+
+.dateTime {
+    margin-top: 20px;
+}
+
+.dateTime .date svg {
+    margin-left: 22px;
+}
+
+.dateTime .date .dateShift {
+    margin-left: 50px;
+    margin-top: -23px;
+}
+
+.dateTime .time {
+    margin-top: 10px;
+}
+
+.dateTime .time svg {
+    margin-left: -2px;
+}
+
+.dateTime .time .dateShift {
+    margin-left: 30px;
+    margin-top: -25px;
+    color: grey;
+}
+
+.spec {
+    color: black !important;
+    margin-left: 75px;
+    margin-top: -10px
+}
+
+.buttonDiv {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.buttonDiv a button {
+    background-color: #3e81a5;
+    width: 100px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.cardLeft {
+	display: flex;
+	flex-direction: column;
+	border-radius: 5px 5px 0 0;
+	justify-content: flex-start;
+	align-items: left;
+	/* border: 1px solid lightgrey; */
+	/* border-bottom: 1px solid lightgrey; */
+	padding-left: 20px;
+
+	/* @media (min-width: $desktop) {
+		border: 1px solid $gray-xlt;
+		border-radius: 5px 0 0 5px;
+		padding: 30px 15px;
+		min-width: 275px;
+		align-items: left;
+		border-right: 0;
+	} */
+}
+.cardRight {
+	display: flex;
+	flex-direction: column;
+	/* border: 1px solid lightgrey; */
+	border-radius: 0 0 5px 5px;
+	width: auto;
+	border-top: 0;
+
+	/* @media (min-width: $desktop) {
+		border: 1px solid $gray-xlt;
+		border-radius: 0 5px 5px 0;
+		width: 700px;
+	} */
+}
+
+.cancelDiv {
+    margin-left: -45px;
+    margin-top: 5px;
+
+	/* @media (min-width: $desktop) {
+		border-bottom: 1px solid $gray-xlt;
+	} */
+}
+
+.cancelledDiv p {
+    margin: 0
+}
+
+.red h5 {
+    margin: 0 0 5px 0;
+	/* @include font-size(16); */
+	/* font-family: $font1-semibold; */
+}
+
+.toolTipDiv {
+	padding: 20px;
+}
+
+.greyBox {
+	padding: 12px;
+	border-radius: 5px;
+	background: lightgrey;
+	display: none;
+	color: grey;
+
+	/* @media (min-width: $desktop) {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	} */
+}
+
+.greyBox h5, .greyBox p {
+    margin: 0
+}
+
+.greyBox .lightBulb {
+    margin-right: 10px;
+}
+
+.greyBox button {
+    position: relative;
+		top: -1px;
+}
+
+
+
+/* .postNoteDiv {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: auto;
+	border-bottom: 0;
+	padding: 20px;
+	color: $gray;
+
+	h5 {
+		margin: 0 0 5px 0;
+		font-size: 16px;
+		font-family: $font1-semibold;
+	}
+
+	p {
+		margin: 0;
+	}
+	@media (min-width: $desktop) {
+		border-bottom: 1px solid $gray-xlt;
+		&.noBorder {
+			border-bottom: none;
+		}
+	}
+} */
+
+.preNoteDiv {
+	color: gray;
+	padding: 0px 20px 20px 20px;
+    margin-top: -180px;
+    margin-left: 300px;
+}
+
+.preNoteDiv h5 {
+    margin: 0 0 5px 0;
+    font-size: 16px;
+}
+
+.preNoteDiv p {
+    margin: 0
+}
+
+/* .preNoteDivPadding {
+	@media (min-width: $desktop) {
+		padding: 20px;
+	}
+} */
+
+.buttonDiv {
+	display: flex;
+	align-items: center;
+}
+
+.editCancelContainer {
+	display: flex;
+}
+
+.editCancelDiv {
+	margin-top: 10px;
+	display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+
+	/* @media (min-width: $desktop) {
+		flex-direction: row;
+	} */
+}
+
+.editCancelDiv span {
+    margin-right: 5px;
+}
+
+.editDiv {
+	margin-right: 20px;
+}
+
+.edit {
+	font-weight: 900;
+}
+
+.edit svg {
+    position: relative;
+    top: 6px;
+    margin: 0;
+}
+
+
+.cancel svg {
+    position: relative;
+	top: 7px;
+}
+
+.messageProviderDiv {
+	display: flex;
+	align-items: center;
+}
+
+.lineHeight {
+	line-height: 1.5rem;
+
+}
+
+.lineHeight button {
+    min-height: auto;
+}
+
+.switch {
+
+    margin-left: 30px;
+    font-size: 17px;
+    margin-top: 30px;
+    width: 100px;
+    border-radius: 0%;
+    color: #3e81a5;
+    
+}
+
+.switch2 {
+    margin-left: 140px;
+    margin-top: -35px;
+    border-radius: 0%;
+}
+
+.on {
+    color: black;
+    border-bottom: 3px solid rgb(62, 129, 165, 0.5);
+}
+
+.border {
+    border-bottom: 1px solid lightgray;
+}
