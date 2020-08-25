@@ -12,7 +12,7 @@ Backend: https://github.com/lbirts/backend_wholisticLiving
 
 ## How to install and use
 
-Clone down this repo and the backend repo on your computer. Cd into the backend folder and bundle install to install all the necessary dependies. After they are installed type in rails s in your terminal to get the backend going. Next, cd into the frontend folder and npm install to install all the necessary packages, afterwares type npm start to start using the application.
+Clone down this repo and the backend repo on your computer. Cd into the backend folder and bundle install to install all the necessary dependies. After they are installed type in rails s in your terminal to get the backend going. Next, cd into the frontend folder and npm install to install all the necessary packages, afterwards type npm start to start using the application.
 
 ## RoadMap
 
