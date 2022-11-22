@@ -27,7 +27,7 @@
     "react-responsive-animate-navbar": "^1.1.8",
     "react-router-dom": "^5.2.0",
     "react-schedule-selector": "^1.0.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-speech-recognition": "^3.0.2",
     "react-transition-group": "^4.4.1",
     "redux": "^4.0.5",
